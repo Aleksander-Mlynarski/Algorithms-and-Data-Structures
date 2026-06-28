@@ -1,0 +1,22 @@
+# IDE / editor (VS Code, Cursor, C/C++ extension)
+.vscode/
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local env / secrets
+.env
+.env.*
